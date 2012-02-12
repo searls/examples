@@ -47,5 +47,5 @@ of being generated from fixtures.
 back to the server. Pull requests that update this app to use Ember Data
 are welcome.)
 
-[1] http://www.emberjs.com/examples/
-[2] http://addyosmani.github.com/todomvc/
+[1]: http://www.emberjs.com/examples/
+[2]: http://addyosmani.github.com/todomvc/
