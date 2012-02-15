@@ -1,0 +1,18 @@
+src_files:
+  - "lib/jquery.min.js"
+  - "lib/**/*.{js,coffee}"
+  - "todos/**/*.{js,coffee}"
+#  - "contacts/app.js"
+#  - "simple_bindings/**/*.{js,coffee}"
+
+stylesheets:
+
+helpers:
+  - "helpers/**/*.{js,coffee}"
+
+spec_files:
+  - "**/*[Ss]pec.{js,coffee}"
+
+src_dir: "."
+
+spec_dir: "spec"
